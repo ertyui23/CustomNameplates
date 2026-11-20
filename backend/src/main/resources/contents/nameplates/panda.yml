@@ -1,0 +1,14 @@
+display-name: Panda
+command-suggestion: Panda
+left:
+  image: panda_left
+  height: 16
+  ascent: 12
+middle:
+  image: panda_middle
+  height: 16
+  ascent: 12
+right:
+  image: panda_right
+  height: 16
+  ascent: 12

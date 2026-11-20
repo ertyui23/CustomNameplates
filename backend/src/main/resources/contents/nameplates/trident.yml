@@ -1,0 +1,14 @@
+display-name: Trident
+command-suggestion: Trident
+left:
+  image: trident_left
+  height: 16
+  ascent: 12
+middle:
+  image: trident_middle
+  height: 16
+  ascent: 12
+right:
+  image: trident_right
+  height: 16
+  ascent: 12

@@ -1,0 +1,14 @@
+display-name: Video Game Console
+command-suggestion: Video Game Console
+left:
+  image: game_left
+  height: 16
+  ascent: 12
+middle:
+  image: game_middle
+  height: 16
+  ascent: 12
+right:
+  image: game_right
+  height: 16
+  ascent: 12
